@@ -1,7 +1,7 @@
 STEPS:
 
 1.
-Enable CSS :has() support via the experimental features flag
+Enable CSS `:has()` support via the experimental features flag
 
 code --enable-experimental-web-platform-features
 
