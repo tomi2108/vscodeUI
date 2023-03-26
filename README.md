@@ -14,7 +14,11 @@ Install [Custom CSS Loader](https://marketplace.visualstudio.com/items?itemName=
 Add these in your settings.json file:
 
 "editor.suggestLineHeight": 28,
-"workbench.colorCustomizations": {"settings.sashBorder": "#181a1f"},
+"workbench.colorCustomizations": {
+  "settings.sashBorder": "#181a1f",
+  "scrollbar.shadow": "#ff000000",
+  "focusBorder": "#ff000000"
+},
 
 Thank you.
 
