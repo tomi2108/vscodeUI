@@ -3,7 +3,7 @@ STEPS:
 1.
 Enable CSS `:has()` support via the experimental features flag
 
-`code --enable-experimental-web-platform-features`
+  `code --enable-experimental-web-platform-features`
 
 Append this flag in the vscode shortcut properties to avoid passing it every time.
 
