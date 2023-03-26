@@ -23,6 +23,7 @@ Add these in your settings.json file:
   "focusBorder": "#ff000000",
   "panel.background": "#21252b",
   "terminal.background": "#21252b",
+  "editorGhostText.foreground": "#636d83"
 },
 ```
 
