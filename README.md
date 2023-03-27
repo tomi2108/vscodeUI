@@ -1,4 +1,4 @@
-## Steps for customizing VS Code UI
+## Steps to Customize an Atom-Inspired VS Code UI
 
 
 1. Enable CSS `:has()` [support](https://caniuse.com/css-has) via the experimental features flag  
