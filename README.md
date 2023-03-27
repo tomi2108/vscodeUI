@@ -15,17 +15,17 @@
 
 3. Add these in your settings.json file:
 
-```json
-"editor.suggestLineHeight": 28,
-"workbench.colorCustomizations": {
-  "settings.sashBorder": "#181a1f",
-  "scrollbar.shadow": "#ff000000",
-  "focusBorder": "#ff000000",
-  "panel.background": "#21252b",
-  "terminal.background": "#21252b",
-  "editorGhostText.foreground": "#636d83"
-},
-```
+  ```json
+  "editor.suggestLineHeight": 28,
+  "workbench.colorCustomizations": {
+    "settings.sashBorder": "#181a1f",
+    "scrollbar.shadow": "#ff000000",
+    "focusBorder": "#ff000000",
+    "panel.background": "#21252b",
+    "terminal.background": "#21252b",
+    "editorGhostText.foreground": "#636d83"
+  },
+  ```
 
 Thank you.
 
