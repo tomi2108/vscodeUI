@@ -6,12 +6,12 @@
  
    `code --enable-experimental-web-platform-features`
 
-   > Append this flag in the vscode shortcut properties to avoid passing it every time.\
-<br><br>
+   > Append this flag in the vscode shortcut properties to avoid passing it every time.\  
+    
 2. Install [Custom CSS Loader](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css) extension and enable it.  
 
-   > Please ensure that your CSS file path is properly referenced in the settings.\
-<br><br>
+   > Please ensure that your CSS file path is properly referenced in the settings.\  
+    
 3. Add these in your settings.json file:
 
   ```json
