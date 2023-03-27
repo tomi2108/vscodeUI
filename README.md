@@ -1,7 +1,7 @@
 ## Steps for customizing VS Code UI
 
 
-1. Enable CSS `:has()` support via the experimental features flag  
+1. Enable CSS `:has()` [support](https://caniuse.com/css-has) via the experimental features flag  
  
    `code --enable-experimental-web-platform-features`
 
