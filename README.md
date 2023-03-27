@@ -3,9 +3,9 @@
 
 1. Enable CSS `:has()` support via the experimental features flag  
  
-&emsp; `code --enable-experimental-web-platform-features`
+   `code --enable-experimental-web-platform-features`
 
-&emsp; Append this flag in the vscode shortcut properties to avoid passing it every time.
+   Append this flag in the vscode shortcut properties to avoid passing it every time.
 
 
 2. Install [Custom CSS Loader](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css) extension and enable it.  
